@@ -45,3 +45,39 @@ The project is structured into logical stages to ensure clarity and reproducibil
 #### **5. Conclusion**
 
 This project serves as a comprehensive example of applying machine learning techniques to medical dataset analysis. It highlights the importance of data visualization in identifying trends before modeling and demonstrates the practical application of classification algorithms in health informatics. The comparison between Logistic Regression and SVM provides valuable insight into model selection for medical classification tasks.
+
+
+
+
+
+#### **Project Snapshots**
+
+**1. Importing Dependencies adn Loading Data**
+
+<img width="1912" height="778" alt="Screenshot 2026-01-02 145856" src="https://github.com/user-attachments/assets/02c88ba6-e742-4324-b72a-d520d907f312" />
+
+
+**2. Getting eyes over data**
+
+<img width="1919" height="779" alt="Screenshot 2026-01-02 145920" src="https://github.com/user-attachments/assets/ee5b379f-3dc7-4b46-905b-13edc84e1327" />
+
+
+**3. Performing EDA, Extracting Insights and Creating Visuals**
+
+<img width="1917" height="782" alt="Screenshot 2026-01-02 145946" src="https://github.com/user-attachments/assets/4869acd4-416a-48fa-bb54-43ada24e4bf6" />
+
+<img width="1919" height="781" alt="Screenshot 2026-01-02 145954" src="https://github.com/user-attachments/assets/4955c218-dd03-465f-9511-4dd61f3785fb" />
+
+<img width="1913" height="780" alt="Screenshot 2026-01-02 150012" src="https://github.com/user-attachments/assets/60edbf94-8467-4d90-a9bb-7edeab16e95f" />
+
+<img width="1919" height="775" alt="Screenshot 2026-01-02 150025" src="https://github.com/user-attachments/assets/e95f7fab-0f2e-43f7-8098-48f557c88101" />
+
+
+**4. Feature Engineering and Model Training**
+
+<img width="1919" height="776" alt="Screenshot 2026-01-02 150035" src="https://github.com/user-attachments/assets/3f7b402e-deb4-4cff-80af-71ee862a6b36" />
+
+<img width="1919" height="782" alt="Screenshot 2026-01-02 150042" src="https://github.com/user-attachments/assets/62e0514b-d42e-4e93-bad6-d45bb2803115" />
+
+
+
